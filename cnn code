@@ -1,0 +1,65 @@
+# 🧠 CNN Image Classification
+
+A Python-based Convolutional Neural Network (CNN) project for image classification using TensorFlow and Keras.
+
+## 📌 Features
+
+- Image preprocessing
+- CNN model implementation
+- Model training and testing
+- Image prediction
+- Beginner-friendly project
+
+## 🛠 Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+## 📂 Project Structure
+
+```
+cnn-image-classification/
+│── dataset/
+│── model/
+│── cnn_model.py
+│── train.py
+│── predict.py
+│── requirements.txt
+│── README.md
+```
+
+## 🚀 How to Run
+
+1. Install the required libraries:
+   ```
+   pip install -r requirements.txt
+   ```
+
+2. Train the model:
+   ```
+   python train.py
+   ```
+
+3. Run prediction:
+   ```
+   python predict.py
+   ```
+
+## 📚 Learning Outcomes
+
+- Understanding CNN architecture
+- Image preprocessing
+- Model training
+- Image classification using Deep Learning
+
+## 👩‍💻 Author
+
+**Sushmitha G**
+
+- GitHub: https://github.com/sushmitha-programmer
+- LinkedIn: https://www.linkedin.com/in/sushmitha-g-82a7ab357
+
+⭐ If you like this project, consider giving it a star!
